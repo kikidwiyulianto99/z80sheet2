@@ -1,0 +1,9 @@
+	LD A,07H
+	LD B,09H
+	LD C,B
+	LD D,05H
+	LD E,04H
+	LD H,0AH
+	LD L,0BH
+	HALT
+	.END
